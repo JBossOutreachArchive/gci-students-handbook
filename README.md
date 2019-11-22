@@ -27,6 +27,18 @@ Quick note, it is considered a good practice to use Google before contacting men
 
 For any troubles you're having with the organization, mentors or other students, feel free to contact the GCI admins (details below).
 
+## Don’t do these things
+- Don't use foul language to any student or mentor in any case. Always be polite to other community members and mentors.
+- Try to avoid arguing with mentors regarding your task submission.
+- At times there might be delay in reviewing a task. You should *NOT* be constantly texting them to respond.
+- **WARNING**  Never try to copy someone else’s work.Plagiarism is strictly prohibited, you will be banned from the program.
+
+## Do these things
+- When Stuck in a task you should always try to find out the solution to the problem by googling it out before pinging mentors.
+- Always squash your commits when sending the pull request.
+- Always try to attach necessary screenshots or gifs with your pull request.
+- When sending the pull request do mention the corresponding issue number.
+
 ## Github Repositories
 
 We created forks of the relevant projects in [JBossOutreach](https://github.com/JBossOutreach) Github organization. 
