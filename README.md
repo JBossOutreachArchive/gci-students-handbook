@@ -36,4 +36,4 @@ We ask you to send your pull requests (PRs) to the forks there. This way, we can
 ## GCI admins
 - Ali Ok (aliok AT redhat DOT com; Gitter username: aliok)
 - Anuj Garg (anujgargcse AT gmail DOT com; Gitter username: KeenWarrior)
-- Georgios Zaronikas-Karagiannis (gzaronik AT redhat DOT com; Gitter username: TODO )
+- Georgios Zaronikas-Karagiannis (gzaronik AT redhat DOT com; Gitter username: gzaronikas )
