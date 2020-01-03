@@ -1,3 +1,5 @@
+
 User-agent: *
-Disallow:
-Sitemap: http://file:///C:/Users/Shreyashi/Desktop/GCI/gci.html
+Allow: /
+
+Sitemap:file:///C:/Users/Shreyashi/Desktop/GCI/gci.html
