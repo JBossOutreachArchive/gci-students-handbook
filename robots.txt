@@ -1,5 +1,3 @@
-
 User-agent: *
-disallow: /dummy.html
-
+Disallow: /dummy.html/
 Sitemap:https://shreyashi18.github.io/gci.html/gci
