@@ -1,3 +1,3 @@
-User-agent: *
+User-agent: googlebot
 Disallow: /dummy.html?
-sitemap:https://shreyashi18.github.io/gci.htl/gci
+sitemap:https://gci.html/gci
