@@ -1,4 +1,4 @@
 # Group 1
 User-agent: Googlebot
 Disallow: /dummy.html
-sitemap:https://shreyashi18.github.io/gci.html/dummy.html
+sitemap:https://shreyashi18.github.io/gci.html/gci
