@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: https://shreyashi18.github.io/gci.html/dummy.html
+Disallow: /https://shreyashi18.github.io/gci.html/dummy.html
 Sitemap:https://shreyashi18.github.io/gci.html/gci
