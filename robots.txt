@@ -1,5 +1,5 @@
 
 User-agent: *
-Allow: /
+disallow: /dummy.html
 
-Sitemap:file:///C:/Users/Shreyashi/Desktop/GCI/gci.html
+Sitemap:https://shreyashi18.github.io/gci.html/gci
